@@ -161,7 +161,7 @@ class _HomePageState extends State<HomePage> {
                                           ? const Color(0xFF305A7C)
                                           : Colors.transparent,
                                     ),
-                                  )
+                                  ),
                                 ],
                               )),
                             ),
